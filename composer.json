@@ -1,0 +1,41 @@
+{
+    "name": "flarum/flarum",
+    "description": "UBIK NFO forum",
+    "type": "project",
+    "keywords": [
+        "forum",
+        "discussion"
+    ],
+    "homepage": "https://forum.ubik.hr/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Skvorc",
+            "email": "swader@hey.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0",
+        "flarum/approval": "^0.1.0",
+        "flarum/bbcode": "^0.1.0",
+        "flarum/emoji": "^0.1.0",
+        "flarum/lang-english": "^0.1.0",
+        "flarum/flags": "^0.1.0",
+        "flarum/likes": "^0.1.0",
+        "flarum/lock": "^0.1.0",
+        "flarum/markdown": "^0.1.0",
+        "flarum/mentions": "^0.1.0",
+        "flarum/pusher": "^0.1.0",
+        "flarum/statistics": "^0.1.0",
+        "flarum/sticky": "^0.1.0",
+        "flarum/subscriptions": "^0.1.0",
+        "flarum/suspend": "^0.1.0",
+        "flarum/tags": "^0.1.0"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
+}
