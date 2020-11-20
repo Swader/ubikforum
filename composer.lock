@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b60c7349b76a269da62951cd962daffa",
+    "content-hash": "8da49893e581644354790f1d9908be75",
     "packages": [
         {
             "name": "axy/backtrace",
@@ -5069,6 +5069,70 @@
                 "source": "https://github.com/s9e/TextFormatter/tree/2.7.5"
             },
             "time": "2020-09-21T19:31:04+00:00"
+        },
+        {
+            "name": "swader/lang-croatian",
+            "version": "v1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Swader/lang-croatian.git",
+                "reference": "4f5d56b3922728a1f77127cd6813673ccb1e3986"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Swader/lang-croatian/zipball/4f5d56b3922728a1f77127cd6813673ccb1e3986",
+                "reference": "4f5d56b3922728a1f77127cd6813673ccb1e3986",
+                "shasum": ""
+            },
+            "require": {
+                "flarum/core": "^0.1.0-beta.14"
+            },
+            "type": "flarum-extension",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.x-dev"
+                },
+                "flarum-extension": {
+                    "title": "Croatian",
+                    "icon": {
+                        "image": "icon.svg",
+                        "backgroundColor": "#fff",
+                        "backgroundSize": "cover",
+                        "backgroundPosition": "center"
+                    }
+                },
+                "flarum-locale": {
+                    "code": "hr",
+                    "title": "Hrvatski"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Milan Bryant",
+                    "email": "milansamp999@gmail.com"
+                },
+                {
+                    "name": "Bruno Škvorc",
+                    "email": "swader@hey.com"
+                }
+            ],
+            "description": "Croatian language pack for Flarum.",
+            "keywords": [
+                "croatian",
+                "extension",
+                "flarum",
+                "locale",
+                "translation"
+            ],
+            "support": {
+                "issues": "https://github.com/swader/lang-croatian/issues",
+                "source": "https://github.com/swader/lang-croatian"
+            },
+            "time": "2020-11-20T21:19:59+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
