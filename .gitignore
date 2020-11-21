@@ -1,6 +1,8 @@
 config.php
 /vendor
-/storage
 /public/assets/admin-*
 /public/assets/forum-*
 rev-manifest.json
+
+/storage/*/*
+!/**/.gitkeep
