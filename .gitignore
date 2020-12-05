@@ -2,6 +2,7 @@ config.php
 /vendor
 /public/assets/admin-*
 /public/assets/forum-*
+/public/assets/avatars/*
 rev-manifest.json
 
 /storage/*/*
