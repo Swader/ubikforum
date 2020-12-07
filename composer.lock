@@ -6267,16 +6267,16 @@
         },
         {
             "name": "swader/web3address",
-            "version": "v1.1.1",
+            "version": "v1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Swader/flarum-web3address.git",
-                "reference": "302b134e03d9c04fcd4cf1eba4891b991eb43f9f"
+                "reference": "06ac1c6313771d974f131372f3d62c212afff8f1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Swader/flarum-web3address/zipball/302b134e03d9c04fcd4cf1eba4891b991eb43f9f",
-                "reference": "302b134e03d9c04fcd4cf1eba4891b991eb43f9f",
+                "url": "https://api.github.com/repos/Swader/flarum-web3address/zipball/06ac1c6313771d974f131372f3d62c212afff8f1",
+                "reference": "06ac1c6313771d974f131372f3d62c212afff8f1",
                 "shasum": ""
             },
             "require": {
@@ -6322,9 +6322,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Swader/flarum-web3address/issues",
-                "source": "https://github.com/Swader/flarum-web3address/tree/v1.1.1"
+                "source": "https://github.com/Swader/flarum-web3address/tree/v1.1.2"
             },
-            "time": "2020-12-07T11:15:46+00:00"
+            "time": "2020-12-07T12:12:34+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
