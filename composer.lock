@@ -351,16 +351,16 @@
         },
         {
             "name": "dflydev/fig-cookies",
-            "version": "v2.0.1",
+            "version": "v2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dflydev/dflydev-fig-cookies.git",
-                "reference": "733af78ddad60aec96f7c4a1204619dd4d62afff"
+                "reference": "ba0b1a3d7982946ed98c9544f460ffb67a69e359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dflydev/dflydev-fig-cookies/zipball/733af78ddad60aec96f7c4a1204619dd4d62afff",
-                "reference": "733af78ddad60aec96f7c4a1204619dd4d62afff",
+                "url": "https://api.github.com/repos/dflydev/dflydev-fig-cookies/zipball/ba0b1a3d7982946ed98c9544f460ffb67a69e359",
+                "reference": "ba0b1a3d7982946ed98c9544f460ffb67a69e359",
                 "shasum": ""
             },
             "require": {
@@ -403,9 +403,9 @@
             ],
             "support": {
                 "issues": "https://github.com/dflydev/dflydev-fig-cookies/issues",
-                "source": "https://github.com/dflydev/dflydev-fig-cookies/tree/v2.0.1"
+                "source": "https://github.com/dflydev/dflydev-fig-cookies/tree/v2.0.2"
             },
-            "time": "2020-01-02T16:13:22+00:00"
+            "time": "2020-12-04T16:41:16+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -2535,16 +2535,16 @@
         },
         {
             "name": "fof/links",
-            "version": "0.4.1",
+            "version": "0.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfFlarum/links.git",
-                "reference": "987dc3cc8b7a89002a694a3be8ea2b332ea0fbec"
+                "reference": "50aed2e516cbc09f9962d4b7adaf3a8019cc9408"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfFlarum/links/zipball/987dc3cc8b7a89002a694a3be8ea2b332ea0fbec",
-                "reference": "987dc3cc8b7a89002a694a3be8ea2b332ea0fbec",
+                "url": "https://api.github.com/repos/FriendsOfFlarum/links/zipball/50aed2e516cbc09f9962d4b7adaf3a8019cc9408",
+                "reference": "50aed2e516cbc09f9962d4b7adaf3a8019cc9408",
                 "shasum": ""
             },
             "require": {
@@ -2593,7 +2593,7 @@
             ],
             "support": {
                 "issues": "https://github.com/FriendsOfFlarum/links/issues",
-                "source": "https://github.com/FriendsOfFlarum/links/tree/0.4.1"
+                "source": "https://github.com/FriendsOfFlarum/links/tree/0.4.2"
             },
             "funding": [
                 {
@@ -2601,7 +2601,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2020-11-14T17:49:42+00:00"
+            "time": "2020-12-05T10:58:00+00:00"
         },
         {
             "name": "fof/merge-discussions",
@@ -2961,20 +2961,20 @@
         },
         {
             "name": "fof/split",
-            "version": "0.5.0",
+            "version": "0.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfFlarum/split.git",
-                "reference": "0bc68886dbf45381d17a7f06029ce56cb9571a24"
+                "reference": "4f334dcb359d00b5879a4abec3c53589b480bdf4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfFlarum/split/zipball/0bc68886dbf45381d17a7f06029ce56cb9571a24",
-                "reference": "0bc68886dbf45381d17a7f06029ce56cb9571a24",
+                "url": "https://api.github.com/repos/FriendsOfFlarum/split/zipball/4f334dcb359d00b5879a4abec3c53589b480bdf4",
+                "reference": "4f334dcb359d00b5879a4abec3c53589b480bdf4",
                 "shasum": ""
             },
             "require": {
-                "flarum/core": ">=0.1.0-beta.14 <0.1.0-beta.15"
+                "flarum/core": ">=0.1.0-beta.14 <0.1.0-beta.16"
             },
             "type": "flarum-extension",
             "extra": {
@@ -3032,7 +3032,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2020-10-22T03:45:26+00:00"
+            "time": "2020-12-05T11:35:15+00:00"
         },
         {
             "name": "fof/user-bio",
