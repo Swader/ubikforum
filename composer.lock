@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c6bcc949895f2cc79cda2cba783838ba",
+    "content-hash": "c8fb6253a28ee1284015a297eace6860",
     "packages": [
         {
             "name": "askvortsov/flarum-moderator-warnings",
@@ -254,61 +254,6 @@
                 "source": "https://github.com/axypro/sourcemap/tree/0.1.5"
             },
             "time": "2020-08-20T09:49:44+00:00"
-        },
-        {
-            "name": "clarkwinkelmann/flarum-ext-bookmarks",
-            "version": "0.1.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/clarkwinkelmann/flarum-ext-bookmarks.git",
-                "reference": "8906feabeae74e58b88645cf56902a3bb6baa61a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/clarkwinkelmann/flarum-ext-bookmarks/zipball/8906feabeae74e58b88645cf56902a3bb6baa61a",
-                "reference": "8906feabeae74e58b88645cf56902a3bb6baa61a",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "flarum/core": ">=0.1.0-beta.14 <0.1.0-beta15"
-            },
-            "type": "flarum-extension",
-            "extra": {
-                "flarum-extension": {
-                    "title": "Bookmarks",
-                    "icon": {
-                        "name": "fas fa-bookmark",
-                        "backgroundColor": "#684ba6",
-                        "color": "#fff"
-                    }
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "ClarkWinkelmann\\Bookmarks\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Clark Winkelmann",
-                    "email": "clark.winkelmann@gmail.com",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Bookmark discussions to find them easily later",
-            "keywords": [
-                "flarum"
-            ],
-            "support": {
-                "issues": "https://github.com/clarkwinkelmann/flarum-ext-bookmarks/issues",
-                "source": "https://github.com/clarkwinkelmann/flarum-ext-bookmarks/tree/0.1.1"
-            },
-            "time": "2020-11-11T21:53:23+00:00"
         },
         {
             "name": "components/font-awesome",

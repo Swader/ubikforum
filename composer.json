@@ -16,7 +16,6 @@
     ],
     "require": {
         "askvortsov/flarum-moderator-warnings": "^0.3.2",
-        "clarkwinkelmann/flarum-ext-bookmarks": "^0.1.1",
         "flarum/approval": "^0.1.0",
         "flarum/bbcode": "^0.1.0",
         "flarum/core": "^0.1.0",
